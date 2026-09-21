@@ -1,0 +1,4 @@
+Name: Osmonov Erjan
+Course: Devops Essentials
+Week: 1
+Status: Completed
